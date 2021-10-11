@@ -5,7 +5,7 @@ This repository contains data and code for the analysis [reported and published]
 
 ### About
 
-The San Diego Union-Tribune set out to analyze and review crime on an intimate level and potentially reveal how violent incidents can impact the lives and experiences of residents throughout the city.
+The San Diego Union-Tribune set out to analyze and review crime on a neighborhood and street level, and potentially reveal how violent incidents can impact the lives and experiences of residents throughout the city.
 
 Working with the San Diego Associations of Governments, or SANDAG, which collects crime data from local police departments and the San Diego County Sheriff’s Department, the Union-Tribune acquired records of all crime activity that occurred in the county on a census block group level.
 
@@ -29,7 +29,7 @@ These changes are reflected in a separate field, known as the “number actually
 
 The Union-Tribune used this field to calculate all crime totals in the analysis.
 
-The Union-Tribune filtered the database to include only violent crimes — robberies, rapes, attempted rapes, murders and aggravated assaults — that listed San Diego police as the responding agency. Crimes that were reported between 2019 and 2020 but occurred outside of that time frame were not included in the analysis. Crimes that were reported to local agencies but occurred outside the city of San Diego were also removed.
+The Union-Tribune filtered the database to include only violent crimes — robberies, strong arm robberies, rapes, attempted rapes, murders and aggravated assaults — that listed San Diego police as the responding agency. Crimes that were reported between 2019 and 2020 but occurred outside of that time frame were not included in the analysis. Crimes that were reported to local agencies but occurred outside the city of San Diego were also removed.
 
 The Union-Tribune also chose to filter the database to a selection of non-violent, lower-level crimes, to compare the pre-pandemic year of 2019 to the largely pandemic year of 2020.
 
