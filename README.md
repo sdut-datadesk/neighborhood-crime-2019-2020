@@ -29,17 +29,17 @@ These changes are reflected in a separate field, known as the “number actually
 
 The Union-Tribune used this field to calculate all crime totals in the analysis.
 
-The Union-Tribune filtered the database to include only violent crimes — robberies, rapes, murders and aggravated assaults — that listed San Diego police as the responding agency. Crimes that were reported between 2019 and 2020 but occurred outside of that time frame were not included in the analysis. Crimes that were reported to local agencies, but occurred outside the city of San Diego were also removed.
+The Union-Tribune filtered the database to include only violent crimes — robberies, rapes, attempted rapes, murders and aggravated assaults — that listed San Diego police as the responding agency. Crimes that were reported between 2019 and 2020 but occurred outside of that time frame were not included in the analysis. Crimes that were reported to local agencies but occurred outside the city of San Diego were also removed.
 
-The Union-Tribune also chose to filter the database to a selection of non-violent, lower level crimes, to compare the pre-pandemic year of 2019 to the largely pandemic year of 2020.
+The Union-Tribune also chose to filter the database to a selection of non-violent, lower-level crimes, to compare the pre-pandemic year of 2019 to the largely pandemic year of 2020.
 
-These crimes are larceny, residential burglary, fraud, commercial burglaries, malicious mischief and some domestic crimes.
+These crimes are larceny, residential burglary, fraud, commercial burglaries, malicious mischief, and some domestic crimes.
 
 Not all block groups fit perfectly inside cities and census-designated places. For example, some are divided by the boundary lines of San Diego and surrounding cities such as Chula Vista, Lemon Grove and Poway.
 
 The Union-Tribune used the Missouri Census Data Center’s geographic correspondence engine, a data tool, to determine which block groups fall within or on a boundary of the city of San Diego. The Union-Tribune's analysis includes all crimes that occurred in a block group that falls inside or partially within the city's jurisdiction line.
 
-All crime records are submitted to ARJIS by member agencies and therefore can contain some level of error, such as missing or incomplete information. When address information is missing or incorrect, sometimes agencies will mark the crime location as a detention facility, courthouse, interstate or border patrol checkpoint. Less than 1 percent of the dataframe's total rows were removed from the analysis due to missing or incomplete address information.
+All crime records are submitted to ARJIS by member agencies and therefore can contain some level of error, such as missing or incomplete information. When address information is missing or incorrect, sometimes agencies will mark the crime location as a detention facility, courthouse, interstate or border patrol checkpoint. Less than 1 percent of total rows in the database were removed from the analysis due to missing or incomplete address information.
 
 ### The SDUT repository contains the following:
 
