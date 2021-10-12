@@ -5,7 +5,7 @@ This repository contains data and code for the analysis [reported and published]
 
 ### About
 
-The San Diego Union-Tribune set out to analyze and review crime on a neighborhood and street level, and potentially reveal how violent incidents can impact the lives and experiences of residents throughout the city.
+The San Diego Union-Tribune set out to analyze and review crime on a neighborhood and street-level basis, and potentially reveal how violent incidents can impact the lives and experiences of residents throughout the city.
 
 Working with the San Diego Associations of Governments, or SANDAG, which collects crime data from local police departments and the San Diego County Sheriff’s Department, the Union-Tribune acquired records of all crime activity that occurred in the county on a census block group level.
 
