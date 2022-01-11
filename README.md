@@ -1,7 +1,7 @@
 # Crime analysis for city of San Diego block groups 2019-2020
 By: [Greg Moran](https://www.sandiegouniontribune.com/sdut-greg-moran-staff.html), [David Hernandez](https://www.sandiegouniontribune.com/sdut-david-hernandez-staff.html) and [Lauryn Schroeder](https://www.sandiegouniontribune.com/sdut-lauryn-schroeder-staff.html)
 
-This repository contains data and code for the analysis [reported and published](XXXXX) by *The San Diego Union-Tribune* on Oct. XX, 2021.
+This repository contains data and code for the analysis [reported and published](https://www.sandiegouniontribune.com/news/public-safety/story/2021-10-31/crime-counts-violent-crime-increased-in-san-diego-in-pandemic-year-but-not-as-much-as-national-trend) by *The San Diego Union-Tribune* on Oct. 31, 2021.
 
 ### About
 
